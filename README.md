@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oi Tudo bem, 
+meu nome é Gabriel Rubi e sou aluno do Enrique Cabelo
 
 <!--
 **Rubizoka/Rubizoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
